@@ -18,8 +18,8 @@ This is the backend for the Quiz App, built using Django and Django REST Framewo
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/QuizappBackend.git
-    cd QuizappBackend
+    git clone https://github.com/erisvulgaris/djangoNEETQuiz.git
+    cd djangoNEETQuiz
     ```
 
 2. Create and activate a virtual environment:
